@@ -5,7 +5,7 @@
 ### 🧠 Technical Skills
 
 #### 💻 Languages  
-`Python` · `Go` · `Java`
+`C` · `Python` · `Java` · `Go`
 
 #### ⚙️ Frameworks & Technologies  
 `FastAPI` · `Spring Boot` · `Quarkus` · `Kafka`
